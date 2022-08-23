@@ -1,0 +1,18 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: brown;
+}
+
+.title {
+    margin: auto;
+    max-width: 600px;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.paragraph {
+    margin: auto;
+    max-width: 600px;
+}
