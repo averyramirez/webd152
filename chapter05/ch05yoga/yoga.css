@@ -1,5 +1,32 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    background-color: #9cbfc1;
+    background-image: url(images/lilyheader.jpg);
+    background-position: right;
+    background-repeat: no-repeat;
+    line-height: 400%;
+    text-indent: 1em;
+}
+
+nav {
+    background-color: #d1dee9;
+    font-weight: bold;
+}
+
+nav a {
+    text-decoration: none; /* txd */
+}
+
 h1 {
     color: #043315;
+    margin-bottom: 0;
+}
+
+h1, h2, h3, footer {
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 h2 {
@@ -22,10 +49,16 @@ footer {
     color: #58E88A;
 }
 
-.bullets {
+.fa-ul {
     color: #26633B;
 }
 
 .contact {
     color: #12E35B;
+}
+
+footer {
+    font-size: 75%; /* fz75% */
+    font-style: italic; /* fsi */
+    text-align: center; /* txa */
 }
