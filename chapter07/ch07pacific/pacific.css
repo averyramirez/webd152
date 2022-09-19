@@ -130,7 +130,7 @@ footer {
 #homehero {
     background-image: url(images/coast2.jpg); /* bgi */
     background-repeat: no-repeat; /* bgr */
-    background-size: 100% 100%; /* bgz100%100% */
+    background-size: 101% 101%; /* bgz101%101% */
     height: 300px; /* h300 */
     margin-left: 190px; /* ml190 */
 }
